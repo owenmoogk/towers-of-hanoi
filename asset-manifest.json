@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/towers-of-hanoi/static/css/main.1191c00a.chunk.css",
+    "main.js": "/towers-of-hanoi/static/js/main.3a3d835a.chunk.js",
+    "main.js.map": "/towers-of-hanoi/static/js/main.3a3d835a.chunk.js.map",
+    "runtime-main.js": "/towers-of-hanoi/static/js/runtime-main.5f72f080.js",
+    "runtime-main.js.map": "/towers-of-hanoi/static/js/runtime-main.5f72f080.js.map",
+    "static/js/2.653a5300.chunk.js": "/towers-of-hanoi/static/js/2.653a5300.chunk.js",
+    "static/js/2.653a5300.chunk.js.map": "/towers-of-hanoi/static/js/2.653a5300.chunk.js.map",
+    "index.html": "/towers-of-hanoi/index.html",
+    "static/css/main.1191c00a.chunk.css.map": "/towers-of-hanoi/static/css/main.1191c00a.chunk.css.map",
+    "static/js/2.653a5300.chunk.js.LICENSE.txt": "/towers-of-hanoi/static/js/2.653a5300.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5f72f080.js",
+    "static/js/2.653a5300.chunk.js",
+    "static/css/main.1191c00a.chunk.css",
+    "static/js/main.3a3d835a.chunk.js"
+  ]
+}
