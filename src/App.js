@@ -26,6 +26,7 @@ export default function App() {
     var numDiscsInput = document.getElementById("numDiscs")
     numDiscsInput.disabled = true;
 
+    totalDelay = 0;
     moveTower(numDiscs, "#peg1", "#peg3", "#peg2")
 
     setTimeout(() => {
